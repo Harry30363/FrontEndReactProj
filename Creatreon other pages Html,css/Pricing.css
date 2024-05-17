@@ -1,0 +1,125 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+html,body{
+    line-height: 1.4;
+    font-weight: 300;
+}
+.hero_section_1{
+    background-image: url(Pricing1.jpg);
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.text_container1{
+    font-size: 95px;
+    color: white;
+    max-width: 100%;
+    padding-top: 130px;
+    margin-left: 95px;   
+}
+.downparth1{
+    padding-left: 850px;  
+}
+.par1{
+    color: rgb(155, 255, 223);
+    font-size: 30px;
+    font-weight: 600;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.hero_section_2{
+    position: -webkit-sticky;
+    background-image: url(Herosection2.jpg);
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.hero_section_3{
+    position: -webkit-sticky;
+    background-image: url(Herosection3.jpg);
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.hero_section_4{
+    background-image: url(Herosection4.jpg);
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.hero_section_5{
+    background-image: url(Herosection5.jpg);
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.hero_section_6{
+    background-image: url(Herosection6.jpg);
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.hero_section_7{
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.herosection2-6_img{
+    padding-top: 2%;
+    width: 55%;
+    margin-left: 20%;
+}
+.herosection2-6_head{
+    padding-top: 3%;
+    margin-left: 20%;
+    font-size: 40px;
+    color: rgb(108, 56, 67);
+}
+.herosection_video{
+    width: 100%;
+}
+
+.main-content-5-centre{
+    padding: 80px 85px;
+    background-color: white;
+    border-radius: 25px;
+    position: absolute;
+    top: 628%;
+    left: 38vw;
+    text-align: center;
+    
+}
+
+.main-content-5-centre button{
+    background-color: #000000;
+    border: none;
+    color: white;
+    padding: 15px 80px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 30px;
+}
+
+.main-content-5-centre img{
+    width: 77px;
+    padding-bottom: 10px;
+}
+.main-content-5-centre h5{
+    cursor: pointer;
+}

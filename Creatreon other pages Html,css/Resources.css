@@ -1,0 +1,111 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+html,body{
+    line-height: 1.4;
+    font-weight: 300;
+}
+.head1{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+.cointainer1{
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
+    display:flex;
+}
+.cointainer1_1img{
+    width: 80%;
+    height: auto;
+}
+.cointainer1_2img{
+    width: 80%;
+    height: auto;
+}
+.cointainer1_3img{
+    width: 80%;
+    height: auto;
+}
+.cointainer1_para{
+    color: black;
+}
+.cointainer1_head{
+    margin-top: 3%;
+    color: rgb(135, 77, 2);
+    font-size: 25px;
+}
+.cointainer2{
+    margin-top: 10%;
+}
+
+.cointainer2_1{
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
+    display:flex;
+}
+.cointainer2_2{
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
+    display:flex;
+}
+.cointainer2_3{
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
+    display:flex;
+}
+.cointainer2_4{
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
+    display:flex;
+}
+.cointainer2_1img{
+    width: 60%;
+    height: auto;
+}
+.cointainer2_2img{
+    width: 60%;
+    height: auto;
+}
+.cointainer3_3img{
+    width: 60%;
+    height: auto;
+}
+.cointainer4_4img{
+    width: 60%;
+    height: auto;
+}
+.Cointainer2_leftside{
+    margin-top: 8%;
+    margin-left: 4%;
+    
+}
+.Cointainer2_leftside h1{
+    font-size: 40px;
+}
+.Cointainer2_leftside button{
+
+    border:black;
+    color: white;
+    background-color: rgb(124, 80, 80);
+    padding: 10px 13px ;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    cursor: pointer;
+    border-radius: 30px;
+}
